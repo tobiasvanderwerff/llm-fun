@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/caQp2MhwfrTYGqVr7d9ayn8tqQ7.jpg",
+      "genre_ids": [
+        36,
+        18,
+        53,
+        10752
+      ],
+      "id": 205596,
+      "original_language": "en",
+      "original_title": "The Imitation Game",
+      "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "popularity": 42.325,
+      "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "release_date": "2014-11-14",
+      "title": "The Imitation Game",
+      "video": false,
+      "vote_average": 8.01,
+      "vote_count": 15611
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 324555,
+      "original_language": "en",
+      "original_title": "The Imitation Game",
+      "overview": "Second World War drama - A young woman decides against working in a munitions factory, and lands a post with the signals corps attempting to crack the Enigma code.",
+      "popularity": 1.074,
+      "poster_path": "/ozM5cqFhwODcpgkCWdvkidiDUKN.jpg",
+      "release_date": "1980-04-24",
+      "title": "The Imitation Game",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 3
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}
