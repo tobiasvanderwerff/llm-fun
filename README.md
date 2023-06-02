@@ -8,6 +8,14 @@ Playing around with LLMs.
 - LangChain
 
 
+## Content
+
+- `ask_a_txt.ipynb`: very basic pipeline, where a txt file is loaded, and questions can be asked about the text. In a nutshell, you try to match the question to the most relevant embeddings, and then you feed the associated texts to the LLM, along with the initial question.
+- `ask_a_codebase.ipynb`: ask questions against the [tinygrad](https://github.com/geohot/tinygrad) codebase.
+- `ask_a_pdf.ipynb`: a bit more involved pipeline, although the basic idea is the same (feeding embedding matching results to the LLM).
+- `tools.ipynb`: exploration of hooking up an LLM with external tools, such as Wikipedia search and a calculator. Pretty amazing to see.
+
+
 ## OpenAPI API key
 
 Note: make sure your OpenAI API key is set under the OPENAI_API_KEY environment variable. You could also use a `.env` file and store your key in there.
