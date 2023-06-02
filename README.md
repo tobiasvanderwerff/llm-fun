@@ -6,6 +6,7 @@ Playing around with LLMs.
 
 - OpenAI API
 - LangChain
+- Chroma embedding database
 
 
 ## Content
